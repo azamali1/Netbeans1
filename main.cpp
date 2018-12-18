@@ -12,6 +12,7 @@
  */
 
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
@@ -21,6 +22,7 @@ using namespace std;
 int main(int argc, char** argv) {
     
     cout << "Le nouveau est revenu et il m'en veut pas pour ses côtes !" << endl;
+    cout << "Il est pas très fort pour l'instant mais progresse." << endl;
 
     return 0;
 }
