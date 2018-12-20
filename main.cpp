@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     
     cout << "Le nouveau est revenu et il m'en veut pas pour ses côtes !" << endl;
     cout << "Il est nul pour l'instant mais il progresse." << endl;
-
+    cout << "ty est nul quoi! " << endl;
     return 0;
 }
 
